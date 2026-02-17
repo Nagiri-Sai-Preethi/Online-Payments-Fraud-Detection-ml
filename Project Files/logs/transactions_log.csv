@@ -1,1 +1,5 @@
-
+timestamp,account_id,step,type_encoded,amount,oldbalanceOrg,newbalanceOrig,oldbalanceDest,newbalanceDest,is_fraud,fraud_score
+2026-02-13T19:57:22,preethi,0.0,0,0.0,0.0,0.0,0.0,0.0,0,8.82
+2026-02-13T19:57:47,preethi,0.0,0,0.0,0.0,0.0,0.0,0.0,0,8.82
+2026-02-13T21:10:33,preethi,7.0,2,100.0,50.0,200.0,70.0,300.0,0,7.9
+2026-02-13T21:11:10,pooja,1.0,0,700.0,300.0,200.0,700.0,500.0,0,7.47
